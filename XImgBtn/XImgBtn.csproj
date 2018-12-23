@@ -3,13 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Description>An Image View with Tap Gesture Recognizer (Different image sources for Up and Pressed Conditions) and Tap/Click Animation.</Description>
-    <AssemblyVersion>1.0.1.0</AssemblyVersion>
-    <FileVersion>1.0.1.0</FileVersion>
-    <Version>1.0.1</Version>
+    <Description>An Image View with Tap Gesture Recognizer (Different image sources for Up and Pressed Conditions) and Tap/Click Animation for Xamarin Forms</Description>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
+    <FileVersion>1.0.2.0</FileVersion>
+    <Version>1.0.2</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Xigmond Berton</Authors>
-    <Company>XamApp</Company>
+    <Company>Xigmond Berton</Company>
     <PackageTags>Image Button, Animation Button, Xamarin Forms</PackageTags>
     <NeutralLanguage>en</NeutralLanguage>
     <PackageLicenseUrl>license.txt</PackageLicenseUrl>
@@ -18,6 +18,11 @@
     <RepositoryType>public</RepositoryType>
     <Copyright>Copyright (c) 2018 Xigmond Berton</Copyright>
     <PackageIconUrl>https://github.com/tickerman/XImgBtn/blob/master/ImgBtnicon.ico</PackageIconUrl>
+    <PackageVersion>1.0.2</PackageVersion>
+    <Title>XImgBtn</Title>
+    <Owners>Xigmond Berton</Owners>
+    <Summary>An Image View with Tap Gesture Recognizer %28Different image sources for Up and Pressed Conditions%29 and Tap/Click Animation for Xamarin Forms</Summary>
+    <ApplicationIcon>ImgBtnicon.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
