@@ -12,6 +12,12 @@
     <Company>XamApp</Company>
     <PackageTags>Image Button, Animation Button, Xamarin Forms</PackageTags>
     <NeutralLanguage>en</NeutralLanguage>
+    <PackageLicenseUrl>license.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/tickerman/XImgBtn</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tickerman/XImgBtn</RepositoryUrl>
+    <RepositoryType>public</RepositoryType>
+    <Copyright>Copyright (c) 2018 Xigmond Berton</Copyright>
+    <PackageIconUrl>https://github.com/tickerman/XImgBtn/blob/master/ImgBtnicon.ico</PackageIconUrl>
   </PropertyGroup>
 
   <ItemGroup>
